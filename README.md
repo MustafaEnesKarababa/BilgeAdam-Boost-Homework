@@ -2,4 +2,4 @@
 
 BilgeAdam Boot Eğitimi çerçevesinde yapılmış olan bir ödevdir. 
 
-Arrays hakkındadır.
+Github'ı öğrenmek için eklenmiştir.
